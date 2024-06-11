@@ -1,0 +1,1 @@
+# Inicializa catmouse como un paquete o modulo para poder importar cosas directamente desde el paquete
